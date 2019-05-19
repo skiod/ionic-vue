@@ -1,0 +1,6 @@
+.gradle
+android
+node_modules
+capacitor.config.json
+dist
+.env
