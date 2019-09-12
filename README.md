@@ -1,3 +1,10 @@
+#screenshots 
+
+![alt text](https://i.imgur.com/JSMhYBm.jpg)
+![alt text](https://i.imgur.com/FR4ZH85.jpg)
+![alt text](https://i.imgur.com/90fnRi9.jpg)
+
+
 # mobile app skeleton ionic4-vuejs
 
 With the basics of vuejs so you are able to create mobile apps (hybrid apps)
